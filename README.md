@@ -2,6 +2,8 @@
 
 Static portfolio website built with HTML, CSS, and vanilla JavaScript.
 
+Live production URL: <https://portfolio-artem-klima.vercel.app>
+
 ## Stack
 
 - Static HTML pages
@@ -31,3 +33,4 @@ Vercel will serve the files from the project root. Routing and cache headers are
 - Replace relative canonical and Open Graph URLs with the final production domain.
 - Add a production sitemap once the final domain is known.
 - Consider converting large JPG/PNG assets to WebP or AVIF for faster loading.
+- Optional custom domain placeholder: add your domain in Vercel Project Settings, then update DNS records as instructed by Vercel. HTTPS is issued automatically.
